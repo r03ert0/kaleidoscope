@@ -1,5 +1,5 @@
 (function(global) {
-	var SiphUrl = 'http://localhost/kaleidoscope/kaleidoscope.js';
+	var SiphUrl = 'kaleidoscope.js';
 
 	// Globals
 	if(!global.Siph)
